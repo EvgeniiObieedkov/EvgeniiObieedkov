@@ -1,4 +1,8 @@
-## Hi there 👋
+#### Hey, my name is Evgenii Obieedkov 👋
+
+📲 Connect with me on
+📲 Connect with me on
+🐍 [GitHub проекты](https://github.com/EvgeniiObieedkov?tab=repositories)
 
 <!--
 **EvgeniiObieedkov/EvgeniiObieedkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
