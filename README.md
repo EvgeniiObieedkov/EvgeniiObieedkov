@@ -1,8 +1,8 @@
 #### Hey, my name is Evgenii Obieedkov 👋
 
-📲 Connect with me on LinkedIn [Evgenii Obieedkov](https://www.linkedin.com/in/obieedkov/)   
-📲 Visit my portfolio website [Evgenii Obieedkov](https://evgeniiobieedkov.github.io/portfolio.github.io/)  
-🐍 [GitHub projects](https://github.com/EvgeniiObieedkov?tab=repositories)
+📲 Connect with me on LinkedIn ➡︎ [Evgenii Obieedkov](https://www.linkedin.com/in/obieedkov/)   
+📲 Visit my portfolio website ➡︎ [Evgenii Obieedkov](https://evgeniiobieedkov.github.io/portfolio.github.io/)  
+🐍 Look at my projects ➡︎ [GitHub projects](https://github.com/EvgeniiObieedkov?tab=repositories)
 
 <!--
 **EvgeniiObieedkov/EvgeniiObieedkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
