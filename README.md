@@ -1,6 +1,6 @@
 #### Hey, my name is Evgenii Obieedkov 👋
 
-📲 Connect with me on [LinkedIn](https://www.linkedin.com/in/obieedkov/)   
+📲 Connect with me on LinkedIn [Evgenii Obieedkov](https://www.linkedin.com/in/obieedkov/)   
 📲 Connect with me on  
 🐍 [GitHub проекты](https://github.com/EvgeniiObieedkov?tab=repositories)
 
