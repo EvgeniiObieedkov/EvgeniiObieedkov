@@ -1,8 +1,8 @@
 #### Hey, my name is Evgenii Obieedkov 👋
 
-📲 Connect with me on LinkedIn ➡︎ <a href="https://www.linkedin.com/in/obieedkov/" target="_blank">Evgenii Obieedkov</a><br>  
-🌐 Visit my portfolio website ➡︎ <a href="https://evgeniiobieedkov.github.io/portfolio.github.io/" target="_blank">Evgenii Obieedkov</a><br>  
-🐍 Look at my projects ➡︎ <a href="https://github.com/EvgeniiObieedkov?tab=repositories" target="_blank">GitHub projects</a>  
+📲 Connect with me on LinkedIn ➡︎ [Evgenii Obieedkov](https://www.linkedin.com/in/obieedkov/)   
+🌐 Visit my portfolio website ➡︎ [Evgenii Obieedkov](https://evgeniiobieedkov.github.io/portfolio.github.io/)  
+🐍 Look at my projects ➡︎ [GitHub projects](https://github.com/EvgeniiObieedkov?tab=repositories)
 
 
 <!--
