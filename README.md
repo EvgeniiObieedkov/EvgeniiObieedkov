@@ -1,7 +1,7 @@
 #### Hey, my name is Evgenii Obieedkov 👋
 
-📲 Connect with me on
-📲 Connect with me on
+📲 Connect with me on  
+📲 Connect with me on  
 🐍 [GitHub проекты](https://github.com/EvgeniiObieedkov?tab=repositories)
 
 <!--
