@@ -1,5 +1,7 @@
 #### Hey, my name is Evgenii Obieedkov 👋
 
+Experience in data analytics and process automation. Worked in energy and manufacturing, improving efficiency and optimizing business processes using data.
+
 📲 Connect with me on LinkedIn ➡︎ [Evgenii Obieedkov](https://www.linkedin.com/in/obieedkov/)   
 🌐 Visit my portfolio website ➡︎ [Evgenii Obieedkov](https://evgeniiobieedkov.github.io/portfolio.github.io/)  
 🐍 Look at my projects ➡︎ [GitHub projects](https://github.com/EvgeniiObieedkov?tab=repositories)
